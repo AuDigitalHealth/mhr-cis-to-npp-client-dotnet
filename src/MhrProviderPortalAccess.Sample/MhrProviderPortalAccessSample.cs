@@ -45,7 +45,7 @@ namespace MhrProviderPortalAccess.Sample
             string dva = "<or: dva number";
             // Patient demographics
             string dob = Convert.ToDateTime("DOB").ToString("dd-MM-yyyy"); ;
-            string gender = "male, female, other or unknown";
+            string gender = "M, F, U or I";
             string family = "Surname only";
 
 
